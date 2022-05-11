@@ -25,7 +25,7 @@ main part of the refactor finished, I finally managed to run the app - it worked
 ### 8.05.2022 - didn't manage to do any coding.
 
 ## DAY 9 (9/05/2022)
-* refactor issues fixed, refactor pushed to dev, dev mained with main
+* refactor issues fixed, refactor pushed to dev, dev merged with main
 
 ### 10.05.2022 - didn't manage to do any coding.
 
