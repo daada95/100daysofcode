@@ -32,3 +32,9 @@ main part of the refactor finished, I finally managed to run the app - it worked
 
 ## DAY 10 (11/05/2022)
 * Head First's OOA&D -> starting chapter 4.
+
+### 12.05.2022 - didn't manage to do any coding.
+### 13.05.2022 - didn't manage to do any coding.
+
+## DAY 11 (14/05/2022)
+* Started working on Google Books API interface in Node.js
